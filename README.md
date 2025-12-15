@@ -1,0 +1,2 @@
+# Text-Analysis-and-Topic-Modeling-of-Rick-and-Morty-Dialogues-Using-NLP-and-Machine-Learning
+This project focuses on text analysis of the Rick and Morty television series scripts. The objective is to explore and understand dialogue patterns, identify recurring themes, and cluster dialogue lines based on their content using various Natural Language Processing (NLP) and Machine Learning techniques.
